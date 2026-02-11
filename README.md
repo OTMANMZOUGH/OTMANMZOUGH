@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/otman-mzough-8811a8189/))
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzoughotman12@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=OTMANMZOUGH&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -113,8 +112,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 <div align="center">
 
 ### 👀 Profile Views
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=OTMANMZOUGH&icon=6&color=3)](https://visitcount.itsvg.in)
 
 **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!**
 
