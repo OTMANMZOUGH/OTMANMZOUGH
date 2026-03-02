@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Otman Mzough
 
-### Full-Stack Developer | QA Engineer | Test Automation Specialist
+### Full-Stack Developer | QA Engineer 
 
 *Building quality software from development to delivery*
 
