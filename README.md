@@ -18,7 +18,7 @@
 ```javascript
 const otman = {
     role: "Full-Stack Developer & QA Engineer",
-    location: "Morocco 🇲🇦 ",
+    location: "Morocco 🇲🇦",
     currentFocus: "Building scalable applications with robust test automation",
     learning: ["Advanced Testing Strategies", "Cloud Architecture", "CI/CD Optimization"],
     collaboration: "Open to full-stack projects and QA automation initiatives",
