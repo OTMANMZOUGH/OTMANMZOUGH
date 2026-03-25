@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Otman Mzough
+# 👋 Hello, I'm Otman Mzough 
 
-### Full-Stack Developer | QA Engineer
+### Full-Stack Developer | QA Engineer 
 
 *Building quality software from development to delivery*
 
